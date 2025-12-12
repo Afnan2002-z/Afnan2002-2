@@ -1,4 +1,4 @@
-# Afnan2002-2
+# Afnan Bait Zayed
 
 ### 💻 Data Science & AI | Software Development  
 Hi, I’m Afnan — a Data Science and Artificial Intelligence specialist with experience in developing applications. I’m passionate about transforming data into smart solutions, and I’m currently training at Code Academy Oman to deepen my skills in data analysis, machine learning, and intelligent systems.

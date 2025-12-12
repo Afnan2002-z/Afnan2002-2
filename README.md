@@ -34,6 +34,18 @@ Hi, I’m Afnan — a Data Science and Artificial Intelligence specialist with e
 
 </p>
 
- ## 📫 Contact Me
-- Email: **fanoonazaid16@gmail.com**
-- LinkedIn: **https://www.linkedin.com/in/afnan-bait-zayid-b55a4b1b2/**
+## 📫 Contact Me
+
+<p align="left">
+
+  <!-- Email -->
+  <a href="mailto:fanoonazaid16@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/afnan-bait-zayid-b55a4b1b2/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+</p>
